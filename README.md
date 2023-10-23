@@ -24,3 +24,7 @@ Before using this script, ensure you have the following:
 
 ```bash
 pip install pyserial
+
+## Installation
+
+Clone this repository to your local machine:
