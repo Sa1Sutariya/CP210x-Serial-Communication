@@ -63,6 +63,7 @@ Contributions are welcome! If you'd like to improve this script or fix any issue
 git checkout -b feature/your-feature-name
 ```
 3. Make your changes and commit them:
+   
 ```bash
 git commit -m 'Add some feature'
 ```
