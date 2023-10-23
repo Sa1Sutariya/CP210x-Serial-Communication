@@ -31,5 +31,21 @@ pip install pyserial
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Sa1Sutariya/send_hex_to_microcontroller.git
 ```
+
+2. Change into the project directory:
+```bash
+cd send_hex_to_microcontroller
+```
+
+## Usage
+
+1. Connect a CP210x USB-to-Serial adapter to your computer.
+2. Run the script by executing:
+
+```python
+python cp210x_communication.py
+```
+
+
