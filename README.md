@@ -1,6 +1,6 @@
 # CP210x Serial Communication
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sa1Sutariya/send_hex_to_microcontroller)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo-name)
