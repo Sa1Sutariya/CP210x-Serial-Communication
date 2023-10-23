@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sa1Sutariya/send_hex_to_microcontroller)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
-![GitHub issues](https://img.shields.io/github/contributors/badges/shields)
+![GitHub issues](https://img.shields.io/github/contributors/Sa1Sutariya/send_hex_to_microcontroller)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/your-repo-name)
 
 A Python script for communicating with CP210x USB-to-Serial adapters and displaying received data.
